@@ -1,0 +1,12 @@
+What are the different phases of React component’s lifecycle?
+"
+Mounting
+Updating
+Unmounting
+"
+
+What is the difference between a Container and a Component?
+"
+A Component is a class or function that describes part of a React UI. 
+Container is an informal term for a React component that is connect -ed to a redux store.
+"
